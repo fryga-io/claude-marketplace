@@ -8,16 +8,13 @@
   "plugins": [
     {
       "name": "superpowers-rails",
-      "description": "Rails-focused fork of Superpowers: core skills library plus Rails conventions, a rails-reviewer subagent, and vertical-slice planning",
       "source": {
-        "source": "github",
-        "repo": "fryga-io/superpowers-rails",
-        "ref": "v5.1.2-rails"
+        "source": "url",
+        "url": "https://github.com/fryga-io/superpowers-rails.git"
       },
-      "author": {
-        "name": "Marcin Ostrowski",
-        "email": "marcin@fryga.io"
-      }
+      "description": "Rails-focused fork of Superpowers: core skills library plus Rails conventions, a rails-reviewer subagent, and vertical-slice planning",
+      "version": "5.1.2-rails",
+      "strict": true
     }
   ]
 }
