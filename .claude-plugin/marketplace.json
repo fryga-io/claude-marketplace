@@ -11,7 +11,8 @@
       "description": "Rails-focused fork of Superpowers: core skills library plus Rails conventions, a rails-reviewer subagent, and vertical-slice planning",
       "source": {
         "source": "github",
-        "repo": "fryga-io/superpowers-rails"
+        "repo": "fryga-io/superpowers-rails",
+        "ref": "v5.1.2-rails"
       },
       "author": {
         "name": "Marcin Ostrowski",
