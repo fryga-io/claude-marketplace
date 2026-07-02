@@ -15,6 +15,16 @@
       "description": "Rails-focused fork of Superpowers: core skills library plus Rails conventions, a rails-reviewer subagent, and vertical-slice planning",
       "version": "5.1.2-rails",
       "strict": true
+    },
+    {
+      "name": "hq",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/fryga-io/hq.git"
+      },
+      "description": "An AI-operated company hub — a structured markdown vault plus the Claude Code commands and skills that maintain it",
+      "version": "0.1.0",
+      "strict": true
     }
   ]
 }
