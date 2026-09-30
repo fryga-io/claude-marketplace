@@ -13,7 +13,7 @@
         "url": "https://github.com/fryga-io/superpowers-rails.git"
       },
       "description": "Rails-focused fork of Superpowers: core skills library plus Rails conventions, a rails-reviewer subagent, and vertical-slice planning",
-      "version": "6.3.0-rails",
+      "version": "6.4.2-rails",
       "strict": true
     },
     {
